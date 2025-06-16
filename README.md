@@ -1,6 +1,6 @@
 # Flutter App Challenge
 
-### Note: The latest app challenge is in the top.
+Feel free to customize these. Note: The latest app challenge is in the top.
 
 ## 2. [Fluttergram: Instagram like app](https://github.com/qani-ajdini/flutter-app-instagram-like-app-fluttergram)
 <p>
